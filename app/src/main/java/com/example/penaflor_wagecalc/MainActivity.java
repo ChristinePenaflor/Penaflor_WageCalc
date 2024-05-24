@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
         Num1 = findViewById(R.id.txtNum1);
         Total = findViewById(R.id.txtTotal);
         Rate = findViewById(R.id.txtRate);
-        Noofhours = findViewById(R.id.txtNo_ofhours);
+        Noofhours = findViewById(R.id.txtNoofhours);
         Num2 = findViewById(R.id.txtNum2);
         Gross = findViewById(R.id.txtGross);
         compute = findViewById(R.id.btncompute);
